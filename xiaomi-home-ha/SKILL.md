@@ -1,4 +1,3 @@
-````skill
 ---
 name: xiaomi-home-ha
 description: "Control Xiaomi/Mi Home smart devices via Home Assistant REST API (curl+jq). Use for lights, switches, sensors, AC, fans, media players, scenes — query state or call any HA service. 通过 HA REST API 控制小米智能家居设备。"
@@ -422,5 +421,3 @@ clawhub publish ./skills/xiaomi-home-ha \
 clawhub install xiaomi-home-ha
 clawhub list | grep xiaomi-home-ha
 ```
-
-````
